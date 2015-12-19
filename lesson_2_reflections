@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, git creates a structure that allows the program to save "commits".  The git program is therefore able to save all the files that you are creating in order to run your program.  It's pretty simple and pretty awesome.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Analogy:  A loading dock where you get ready to ship things away.  It's the "third" place that you can store information, a snapshot of your git commit before a commit is made.  Another analogy is that of an index.
