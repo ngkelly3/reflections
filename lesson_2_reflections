@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, git creates a structure that allows the program to save "commits".  The git program is therefore able to save all the files that you are creating in order to run your program.  It's pretty simple and pretty awesome.

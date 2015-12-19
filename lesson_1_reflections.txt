@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Using + / - signs as differentiators, the diff command was able to understand the differences between the two files.  When I saw those signs, I knew there was a difference.  I could see the difference and see if it was an intended difference or a bug.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+There's a few reasons, but I'm only going to talk about the most obvious one.  Having multiple versions of a file is a lifesaver.  If you screw up a code and want to go back, you can do that and start from a place where you don't have to look at all the changes done previous.  Also, maybe you have a request to change a code from someone higher up than yourself.  Sometimes it's easier to go back to an older version than change what you already have.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros:  More meaningful saves
+Cons:  More likelihood to lose data during times like power outages
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I would think that it's to do with the "mass user."  For Git, it's made for coders.  Multiple files per commit makes sense as code communicates with other bodies of code through separate files.  Google Docs is more for document control, presentations, reports, etc. so multiple file commits aren't really required.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log - shows the commits done on files
+git diff - shows the differences between files
+
+How might using version control make you more confident to make changes that could break something?
+
+You're just not afraid to make changes, knowing that you won't lose too much work even if you do (make changes)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I suppose, right now, definitely web development.  I can't even imagine how else I would save multiple versions of 3 - 4 different files that serve the same website... feels like a nightmare just thinking about it.
