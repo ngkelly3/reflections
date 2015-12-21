@@ -15,3 +15,7 @@ Branches - a branch off the master branch where code can be modified without fur
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 If you lose internet connection, that would not be good!  Nice to have local things so development can continue when disconnected.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+What would be easier?  Well, I guess there would be less redundancy... potentially.  It's really hard to say, though.  It's easier to access files locally.  Using Git or GitHub, however, has far more advantages.  Redundancy in your code, so that you never lose.  Ability to work no matter hwere you are.  I think Git / GitHub makes things harder for people to get started because you have to learn an additional application to code in this way (especially when it comes to collaboration) but the benefits far outweigh the initial time cost to learn Git / GitHub.
