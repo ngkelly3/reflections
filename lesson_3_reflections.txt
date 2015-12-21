@@ -5,3 +5,9 @@ Backup purposes - cloud storage is far better in some cases.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Better logical change documentation rather than saving changes that might not have logical changes.  Testing times two.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks - cloning repositories on Github
+Clones - cloning local repositories or from Github to local repositories
+Branches - a branch off the master branch where code can be modified without further consequence to the master branch
