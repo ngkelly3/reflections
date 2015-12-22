@@ -19,3 +19,7 @@ If you lose internet connection, that would not be good!  Nice to have local thi
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 What would be easier?  Well, I guess there would be less redundancy... potentially.  It's really hard to say, though.  It's easier to access files locally.  Using Git or GitHub, however, has far more advantages.  Redundancy in your code, so that you never lose.  Ability to work no matter hwere you are.  I think Git / GitHub makes things harder for people to get started because you have to learn an additional application to code in this way (especially when it comes to collaboration) but the benefits far outweigh the initial time cost to learn Git / GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If you're working on a feature that can be merged later without consequence to the functionality of the program, then branching is a good way to do this.  Even if it does affect core functionality, this is a way for other team members to operate on code without consequence of what's happening in the main branch.  Merging might become a problem later, but the parallel workings for a team.
